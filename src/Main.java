@@ -4,11 +4,6 @@ import java.util.Calendar;
 public class Main {
 
     public static void main(String[] args) {
-        /*int a = 88;
-        System.out.println("sss");
-        PrintClass obj = new PrintClass();
-        obj.printInt(a);*/
-
         Car[] carsArray = new Car[] {
                 new Car(1, "toyota", "prado", 2018, "black", 32000, "AA2003CK"),
                 new Car(2, "dodge", "durango", 2019, "gray", 29000, "AA4566CC"),
